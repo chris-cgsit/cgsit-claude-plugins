@@ -1,0 +1,15 @@
+{
+  "name": "cgs-demo",
+  "displayName": "CGS Demo",
+  "version": "0.1.0",
+  "description": "Beispiel-Plugin der CGS-Claude-Code-Schulung. Buendelt je eine Komponente jeder Art, damit im Kurs sichtbar wird, was ein Plugin traegt.",
+  "author": {
+    "name": "CGS IT Solutions GmbH",
+    "url": "https://cgsit-train-claude.cgs.at"
+  },
+  "keywords": [
+    "training",
+    "beispiel",
+    "markdown"
+  ]
+}

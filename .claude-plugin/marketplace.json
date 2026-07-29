@@ -1,0 +1,18 @@
+{
+  "name": "cgs-training",
+  "description": "Plugin-Katalog der CGS-Claude-Code-Schulung",
+  "version": "0.1.0",
+  "owner": {
+    "name": "CGS IT Solutions GmbH",
+    "url": "https://cgsit-train-claude.cgs.at"
+  },
+  "plugins": [
+    {
+      "name": "cgs-demo",
+      "source": "./cgs-demo",
+      "description": "Beispiel-Plugin der Schulung: buendelt je einen Skill, Command, Subagenten, Hook und MCP-Eintrag. Nutzlast ist ein Markdown-Link-Pruefer ohne Abhaengigkeiten.",
+      "category": "training",
+      "tags": ["schulung", "beispiel", "markdown"]
+    }
+  ]
+}

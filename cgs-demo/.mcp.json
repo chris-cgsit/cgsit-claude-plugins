@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "seminar": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "${CLAUDE_PROJECT_DIR}/examples/seminar-mcp/target/quarkus-app/quarkus-run.jar"
+      ],
+      "env": {
+        "SEMINAR_API_URL": "http://localhost:8080"
+      }
+    }
+  }
+}
